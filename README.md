@@ -1,5 +1,6 @@
 
-![logo]("https://github.com/Vivek-Jadhav27/Vivek-Jadhav27/blob/main/GitHub%20Baner.png")
+![logo](https://github.com/Vivek-Jadhav27/Vivek-Jadhav27/blob/main/GitHub%20Baner.png)
+
 <h1 align="center">Hi 👋, I'm Vivek Jadhav</h1>
 <h3 align="center">A passionate application developer from India</h3>
 
