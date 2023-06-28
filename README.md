@@ -1,10 +1,12 @@
+
+![logo](https://github.com/Vivek-Jadhav27/Vivek-Jadhav27/blob/main/GitHub%20Baner.png)
 <h1 align="center">Hi 👋, I'm Vivek Jadhav</h1>
 <h3 align="center">A passionate application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-jadhav27&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-jadhav27" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" padding : 15>
+<p align="left" >
 <a href="https://linkedin.com/in/vivekjadhav27" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="vivek jadhav" height="40" width="40" /></a>
 <a href="https://instagram.com/im_vivek_jadhav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="im_vivek_jadhav" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/vcjadhav27" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png?20200508182226" alt="vcjadhav27" height="40" width="40" /></a>
