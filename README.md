@@ -10,9 +10,6 @@
 
 - 📫 How to reach me **vcjadhav27@gmail.com**
 
-- ⚡ Fun fact  **I am Funny**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://linkedin.com/in/vivekjadhav27" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="vivek jadhav" height="40" width="40" /></a>
