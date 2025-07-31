@@ -13,8 +13,7 @@
 <p align="left" >
 <a href="https://linkedin.com/in/vivekjadhav27" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="vivek jadhav" height="40" width="40" /></a>
 <a href="https://instagram.com/im_vivek_jadhav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="im_vivek_jadhav" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/vcjadhav27" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png?20200508182226" alt="vcjadhav27" height="40" width="40" /></a>
-<a href="https://www.hackerearth.com/@vcjadhav27" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/900px-HackerEarth_logo.png?20151101082728" alt="@vcjadhav27" height="40" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
