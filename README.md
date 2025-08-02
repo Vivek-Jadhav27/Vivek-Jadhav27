@@ -27,5 +27,5 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-jadhav27&show_icons=true&locale=en&layout=compact" alt="vivek-jadhav27"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-jadhav27&show_icons=true&locale=en" alt="vivek-jadhav27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-jadhav27&locale=en" alt="vivek-jadhav27" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-jadhav27&" alt="vivek-jadhav27" /></p>
